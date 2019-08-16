@@ -1,0 +1,26 @@
+:root
+{
+    background-color: black;
+}
+
+.centro
+{
+    height: 30vh;
+    width: 40vh;
+    margin-top: 18%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+}
+
+.textoCentro
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    font-size: 50px;
+    font-weight: 500;
+    color: white;
+}
